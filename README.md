@@ -1,7 +1,6 @@
 # Desafio: Criando Um Pequeno Sistema Para Validação de Processo Seletivo
 Desafio apresentado na disciplina 'Criando Um Pequeno Sistema Para Validação de Processo Seletivo'
-apresentada no bootcamp 'Coding The Future - GFT e AWS | Desenvolvimento Java com Cloud AWS', 
-ministrada pelo professor [Gleyson Sampaio](https://github.com/glysns)
+apresentada ministrada pelo professor [Gleyson Sampaio](https://github.com/glysns) pela plataforma da DIO.
 
 ## Controle de Fluxo - Desafio
 
